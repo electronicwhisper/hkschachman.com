@@ -1,0 +1,39 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  line-height: 1.5;
+  color: #333;
+  margin: 4rem auto;
+  width: 600px;
+  font-family: 'PT Sans', sans-serif;
+}
+
+a {
+  color: #36c;
+}
+
+p, h1, h2, h3, .video {
+  margin: 1rem 0;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 4rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 4rem;
+}
+
+.date {
+  color: #999;
+  margin-top: -1rem;
+}
